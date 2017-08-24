@@ -1,0 +1,23 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{publication_policy}
+``Besiii publication policy.'' Available from the besiii management web page:
+  Http://bes3.ihep.ac.cn/orga/besiii\_publication\_policy\_rev\_12\_2013.pdf.
+
+\bibitem{Glashow:1961tr}
+S.~L. Glashow,
+\href{http://dx.doi.org/10.1016/0029-5582(61)90469-2}{Nucl. Phys. {\bfseries
+  22} (1961) 579--588}.
+%%CITATION = NUPHA,22,579;%%.
+
+\bibitem{Weinberg:1967tq}
+S.~Weinberg,
+\href{http://dx.doi.org/10.1103/PhysRevLett.19.1264}{Phys. Rev. Lett.
+  {\bfseries 19} (1967) 1264--1266}.
+%%CITATION = PRLTA,19,1264;%%.
+
+\bibitem{sm_salam}
+A.~Salam,, {\em in Elementary Particle Theory}.
+\newblock Alm\-qvist and Wiksell, Stockholm, 1968.
+
+\end{thebibliography}\endgroup
